@@ -6,3 +6,5 @@
 - 📝 I regularly write articles on [my blog](https://wegret.github.io/)
 
 - 🤝 I’m looking for help with competitive programming in codeforces (account: [wlaten](https://codeforces.com/profile/wlaten))
+
+<img src="https://count.getloli.com/@:wegret?theme=booru-lewd" alt=":name" />
