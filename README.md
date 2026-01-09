@@ -33,6 +33,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![ARM Assembly](https://img.shields.io/badge/-ARM_Assembly-0091BD?style=flat&logo=arm&logoColor=white)
 ![Verilog](https://img.shields.io/badge/-Verilog-8B4513?style=flat&logo=xilinx&logoColor=white)
 
 ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white)
