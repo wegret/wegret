@@ -65,3 +65,7 @@
 <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=wegret&theme=calm&layout=compact&langs_count=8&include_all_commits=true#gh-dark-mode-only">
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=wegret&theme=calm&layout=compact&langs_count=8&include_all_commits=true#gh-dark-mode-only" alt="Top Langs" height="185px">
 </a>
+
+<br/>
+
+![](./profile-3d-contrib/profile-south-season-animate.svg)
