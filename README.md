@@ -54,4 +54,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wegret/wegret/output/github-contribution-grid-snake.svg">
 </picture> -->
 
+<!--
 <img src="https://raw.githubusercontent.com/wegret/wegret/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
+-->
