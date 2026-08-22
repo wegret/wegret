@@ -1,21 +1,9 @@
 <h1 align="center">Hi 👋, I'm wegret</h1>
-<!-- <h3 align="center">A CS/EE junior student at Xiamen University</h3> -->
-<h4 align="center">
-  <span style="color: #0337e6ff;">Embedded Tech</span> | 
-  <span style="color: #f10901ff;">Robotics</span> | 
-  <span style="color: #e27901ff;">Competitive Programming</span> | ...
-</h4>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=wegret&label=Profile%20views&color=0e75b6&style=flat" alt="wegret" /> </p> -->
 
 ## About Me
 
 - 2022~2026, **EE -> CS**  @ XMU
 - Fall 2026, Incoming M.S. in Automation (**Perception**) @ SJTU
-
-
-- In the past: ACMer, embedded & electronics design enthusiast
-- In the future: maybe roboticist?
 
 ## More About Me
 
