@@ -3,7 +3,7 @@
 ## About Me
 
 - 2022~2026, **EE -> CS**  @ XMU
-- Fall 2026, Incoming M.S. in Automation (**Perception**) @ SJTU
+- Fall 2026, Incoming Master of Electronic Information @ SJTU
 
 ## More About Me
 
